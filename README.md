@@ -74,11 +74,12 @@ EduWell is my project that is done as also called an online course, is any cours
 
 ![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
 
+
  
 # Screenshots
-![keerthi jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
-![keerthi jr frp mob cap](https://user-images.githubusercontent.com/85716910/197338218-a21d0704-a24e-463f-bc5f-5d23c52040b9.PNG)
 
+![gowtham](https://user-images.githubusercontent.com/116878326/198867021-52d1e352-f0fd-454d-8056-958334c27403.PNG)
+![gowtham mob](https://user-images.githubusercontent.com/116878326/198867024-cc1550c6-4028-4ee1-8333-d51c7c66adfb.PNG)
 
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
