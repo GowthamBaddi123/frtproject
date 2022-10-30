@@ -15,7 +15,7 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/GowthamBaddi123/frtproject
 
 
 
-EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
+Cemre Bakery is my project that is done as also called an online Bakery  is done as the solution for searching of best bakery Foddies of us as our solution we made a webpage that where we few food items in our site which is used to help
 
 # Features
 -  Good UI
@@ -84,7 +84,8 @@ EduWell is my project that is done as also called an online course, is any cours
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
--  Keerthi Korumilli
+-  Gowtham Baddi
+-  Bharath Chappa
 
 
 # Privacy Policies 
