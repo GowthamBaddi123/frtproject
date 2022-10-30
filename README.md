@@ -1,4 +1,4 @@
-# Future Ready Talent - EduWell
+# Future Ready Talent - Cemre Bakery
 
 
 
@@ -6,10 +6,10 @@ AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
-PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+PROJECT DEMO URL: https://GowthamBaddi123.github.io/frtproject
 
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
+PROJECT LINK(GITHUB REPOSITORY : https://github.com/GowthamBaddi123/frtproject
 
 
 
